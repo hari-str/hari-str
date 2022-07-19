@@ -8,7 +8,7 @@ Some of My Projects ❤
 - 👯 I’m looking to collaborate on Some React based projects.
 - 🧠 Looking for some project ideas.
 - 🌱 I’m currently learning ReactJS.
-🤔 I’m looking for help to learn Backend. 
+- 🤔 I’m looking for help to learn Backend. 
 
 
 - https://sportyfit-shoe.herokuapp.com/
