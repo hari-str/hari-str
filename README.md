@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hari-str&show_icons=true&locale=en" alt="hari-str" width="400" /></p> <br/><br/><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari-str&" alt="hari-str" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari-str&" alt="hari-str" style="margin-top:10px"/></p>
 
 
 my project:
