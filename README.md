@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>, I'm Hari</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40">,I'm Hari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://nordiccoder.com/app/uploads/2019/03/front-end-developers-openings-1.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari-str&label=Profile%20views&color=0e75b6&style=flat" alt="hari-str" /> </p>
