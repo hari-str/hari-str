@@ -24,7 +24,6 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">   <img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702162/react_xvuowb.svg" title="React" alt="React" width="40" height="40"/> </a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer"> 
 <img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671701765/js_aj6mw0.svg" alt="javascript" width="40" height="40"/> </a>
-
  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702163/node_mtamtm.svg" alt="node" width="80"/> </a>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702162/mongo_y9i8lu.svg" alt="mongodb" width="100"/>
  <a href="" target="_blank" rel="noreferrer">   <img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671703518/redux_h6enus.svg" title="redux" alt="Redux" width="40"/> </a>
