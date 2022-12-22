@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hariharanganesan99/" target="_blank"><img align="center" src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702979/linkedin_czvgp7.svg" alt="hariharan ganesan" height="30" width="40" /></a>
-<a href="https://instagram.com/hari_str_99" target="_blank"><img align="center" src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702979/insta_bo5gbl.svg" alt="hari_str_99" height="30" width="40" /></a>
-<a href="https://www.facebook.com/danger.hari.146/" target="_blank"><img align="center" src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671703086/fb_qc9nxy.svg" alt="hari-str" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hariharanganesan99/" target="_blank"><img align="center" src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702979/linkedin_czvgp7.svg" alt="hariharan ganesan"  width="40" /></a>
+<a href="https://instagram.com/hari_str_99" target="_blank"><img align="center" src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702979/insta_bo5gbl.svg" alt="hari_str_99" width="40" /></a>
+<a href="https://www.facebook.com/danger.hari.146/" target="_blank"><img align="center" src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671703086/fb_qc9nxy.svg" alt="hari-str"  width="40" /></a>
 </p>
 
 ## Things I use on a daily basis
