@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40">,I'm Hari</h1>
+<h1 align="center">Hi ,I'm Hari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://nordiccoder.com/app/uploads/2019/03/front-end-developers-openings-1.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari-str&label=Profile%20views&color=0e75b6&style=flat" alt="hari-str" /> </p>
@@ -21,16 +21,16 @@
 
 
 <p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">   <img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702162/react_xvuowb.svg" title="React" alt="React" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702162/react_xvuowb.svg" title="React" alt="React" width="40" height="40"/> </a>
 <a href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer"> 
-<img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671701765/js_aj6mw0.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702163/node_mtamtm.svg" alt="node" width="80"/> </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702162/mongo_y9i8lu.svg" alt="mongodb" width="100"/>
- <a href="" target="_blank" rel="noreferrer">   <img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671703518/redux_h6enus.svg" title="redux" alt="Redux" width="40"/> </a>
+<img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671701765/js_aj6mw0.svg" alt="javascript" title="JavaScript" width="40" height="40"/> </a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702163/node_mtamtm.svg" alt="node" width="80" title="NodeJs"/> </a>
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702162/mongo_y9i8lu.svg" alt="mongodb" width="100" title="MongoDB"/>
+ <a href="https://react-redux.js.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671703518/redux_h6enus.svg" title="Redux" alt="Redux" width="40"/> </a>
  </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702162/html_znrdhq.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702162/css_laxsj1.svg" alt="css3" width="40" height="40"/> </a>  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>   </p>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702162/html_znrdhq.svg" alt="html5" width="40" height="40" title="HTML"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/sportryfitshop/image/upload/v1671702162/css_laxsj1.svg" alt="css3" width="40" height="40" title="CSS"/> </a>  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" title="Heroku"/> </a>   </p>
 
 
 
