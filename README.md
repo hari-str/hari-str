@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari-str&label=Profile%20views&color=0e75b6&style=flat" alt="hari-str" /> </p>
 
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently working **MERN Stack**
 
 - 📫 How to reach me **hariharan5235@gmail.com**
 
